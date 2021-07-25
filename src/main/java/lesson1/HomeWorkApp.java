@@ -23,7 +23,7 @@ public class HomeWorkApp{
     }
 
     public static void printColor() {
-        int value = 10;
+        int value = 120;
         if (value <= 0)
             System.out.println("Красный");
         if (value <= 100)
@@ -33,7 +33,7 @@ public class HomeWorkApp{
     }
 
     public static void compareNumbers() {
-        int a = 40;
+        int a = 10;
         int b = 20;
         if (a >= b)
             System.out.println("a >= b");
